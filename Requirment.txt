@@ -6,3 +6,6 @@ black and white
 new feature
 dakr mode
 video 
+filter
+feature
+photos
