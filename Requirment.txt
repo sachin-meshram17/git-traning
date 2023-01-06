@@ -2,3 +2,7 @@ tis is chat appication
 emoji
 color
 background
+black and white
+new feature
+dakr mode
+video 
