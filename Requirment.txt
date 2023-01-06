@@ -1,0 +1,4 @@
+tis is chat appication 
+emoji
+color
+background
